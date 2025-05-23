@@ -90,7 +90,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📜 License
 
-This project is open source and available under the [MIT License](LICENSE.md) (You'll need to create a LICENSE.md file with the MIT license text if you want this link to work).
+This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
