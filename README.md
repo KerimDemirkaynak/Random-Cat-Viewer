@@ -2,10 +2,6 @@
 
 A fun and stylish web application that displays random cat images fetched from Reddit's r/cats subreddit. It features a cool glowing "cyberpunk" aesthetic and a playful "cuteness warning" popup on entry.
 
-**(Ideally, replace this with a GIF or a high-quality screenshot of the application in action)**
-<!-- ![Random Cat Viewer Screenshot](screenshot.png) -->
-<!-- Example GIF: ![Random Cat Viewer Demo](demo.gif) -->
-
 ## 🚀 Features
 
 *   **Random Cat Images:** Fetches and displays random cat images from the r/cats subreddit.
@@ -63,7 +59,7 @@ Since this is a front-end only project, setting it up is straightforward:
 
 1.  **Clone the repository (or download the `index.html` file):**
     ```bash
-    git clone https://github.com/your-username/Random-Cat-Viewer.git
+    git clone https://github.com/KerimDemirkaynak/Random-Cat-Viewer.git
     cd Random-Cat-Viewer
     ```
 2.  **Open `index.html` in your web browser:**
@@ -84,7 +80,7 @@ No build steps or special dependencies are required beyond a modern web browser.
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/random-cat-viewer/issues) (if you create one).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/KerimDemirkaynak/Random-Cat-Viewer/issues) (if you create one).
 
 1.  Fork the Project
 2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -98,4 +94,4 @@ This project is open source and available under the [MIT License](LICENSE.md) (Y
 
 ---
 
-Made with ❤️ and 🐈 by [Kerim Demirkaynak]
+Made with ❤️ and 🐈 by Kerim Demirkaynak
